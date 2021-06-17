@@ -7,6 +7,7 @@ public class Auto {
 		System.out.println("Arusri");
 		System.out.println("Neruganti");
 		System.out.println("TrainingGIT");
+		System.out.println("TrainingGIT4");
 	}
 
 }
