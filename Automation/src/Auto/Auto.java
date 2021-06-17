@@ -6,6 +6,7 @@ public class Auto {
 		// TODO Auto-generated method stub
 		System.out.println("Arusri");
 		System.out.println("Neruganti");
+		System.out.println("TrainingGIT");
 	}
 
 }
