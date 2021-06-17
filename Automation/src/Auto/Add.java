@@ -8,6 +8,7 @@ public class Add {
 		int y = 2;
 		System.out.println(x+y);
 	System.out.println("Testting");	
+	System.out.println("Testting22");	
 	}
 
 }
